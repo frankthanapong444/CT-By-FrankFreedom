@@ -1,0 +1,1 @@
+//ไฟ LED RGB จะติด loop เขียว น้ำเงิน แดง ตามลำดับ และโชว์ Serial Monitor Green Blue Red ตามลำดับ และตาม สีที่ติด  
